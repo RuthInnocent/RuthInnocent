@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RuthInnocent
-- 👀 I’m interested in Data analytics/ software engineering and cyber security 
-- 🌱 I’m currently learning SQL, EXCEL and POWER BI 
-- 💞️ I’m looking to collaborate on any data analytics projects 
+- 👀 I’m interested in Web Development/ App Development and cyber security 
+- 🌱 I’m currently learning Javascript, Bootstrap and Node Js 
+- 💞️ I’m looking to collaborate on any Web Development projects 
 - 📫 How to reach me.. innocentruth81@gmail.com
 - 😄 Pronouns: She 
 - ⚡ Fun fact: I'm a fast learner and i love learning new things 
